@@ -12,7 +12,7 @@ everybody calls me a omega paster and it's true.
 ## what i can do?
 - paste
 - ui design (lazy to code though)
-- icon designing (yessss ahuhh)
+- logo designing (yessss ahuhh)
 - more pasting
 - complaining
 
@@ -20,7 +20,7 @@ everybody calls me a omega paster and it's true.
 - snake + pascal (Local_Player)
 - pascal (duh)
 - snake (duh)
-- flatcases (omg invaded larp 🤣🤣)
+- flatcases (aka lowercase only for quickies though)
 
 ---
 
