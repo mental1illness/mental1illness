@@ -1,5 +1,5 @@
 # hey everyone.
-everybody calls me a omega paster and it's true.
+*everybody calls me a omega paster and it's true.*
 
 ## about me
 - i live in thailand uhh my name (like my actual name) 
@@ -27,7 +27,7 @@ everybody calls me a omega paster and it's true.
 check out my creations! 
 * **https://github.com/mental1illness/my-work**
 * **https://adult.army/imgs/nmM6d.png**
-* **https://www.youtube.com/@inveris_owo**
+* **https://www.youtube.com/@cf.inverse/**
 
 ---
 <p align="center">
