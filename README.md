@@ -4,10 +4,12 @@
 
 lastly never **kill yourself** no matter how hard it is.
 
-# hey everyone.
-*everybody calls me a omega paster and it's true.*
+if no one cares then i care 🙂
 
 ---
+
+# hey everyone.
+*everybody calls me a omega paster and it's true.*
 
 ## what i can do?
 - paste
