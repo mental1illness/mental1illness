@@ -1,5 +1,9 @@
 ## I QUIT!
 
+*for the reason of that Roblox cheating is boring in general im switching to being a normal person i will still use roblox studio sometimes to kill some times when im bored*
+
+lastly never **kill yourself** no matter how hard it is.
+
 # hey everyone.
 *everybody calls me a omega paster and it's true.*
 
