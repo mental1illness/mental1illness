@@ -18,7 +18,9 @@
   <br>
   
   ₊˚⊹♡ <b>i love doing unnecessary stuff</b>
+  
   ₊˚⊹♡ <b>the name is nam</b>
+  
   ₊˚⊹♡ <b>i am the weirdest person you can meet!</b>
   
 </details>
