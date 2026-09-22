@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><big>@cats.cure.depression</big></strong>
+  <strong><big><big><big>@cats.cure.depression</big></big></big></strong>
 </p>
 
 
