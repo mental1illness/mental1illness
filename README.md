@@ -12,12 +12,21 @@
 </p>
 
 
+<details>
+  <summary><b>୨୧ About Me</b></summary>
+
+  <br>
+  
+  idk brhu
+  
+</details>
+
 
 <details>
-  <summary><b>୨୧ Projects</b></summary>
+  <summary><b>୨୧ Project (s)</b></summary>
 
   <br>
 
-  ₊˚⊹♡ <b>Moehack.net        </b> <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="30" align="middle">
+  ₊˚⊹♡ <b>Moehack.net</b> <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="30" align="middle">
 
 </details>
