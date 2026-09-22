@@ -20,15 +20,11 @@
 
   <br>
 
-  ₊˚⊹♡ <b>i love doing unnecessary stuff</b>
-
-  <br><br>
-
-  ₊˚⊹♡ <b>the name is nam</b>
-
-  <br><br>
-
-  ₊˚⊹♡ <b>i am the weirdest person you can meet!</b>
+  <blockquote>
+    ₊˚⊹♡ <b>i love doing unnecessary stuff</b><br><br>
+    ₊˚⊹♡ <b>the name is nam</b><br><br>
+    ₊˚⊹♡ <b>i am the weirdest person you can meet!</b>
+  </blockquote>
 
 </details>
 
@@ -39,8 +35,10 @@
 
   <br>
 
-  ₊˚⊹♡ <b>Moehack.net</b>
-  <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="30" align="middle">
+  <blockquote>
+    ₊˚⊹♡ <b>Moehack.net</b>
+    <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="30" align="middle">
+  </blockquote>
 
 </details>
 
