@@ -14,8 +14,10 @@
 
 
 <details>
-  <summary><b>Projects</b></summary>
+  <summary><b>୨୧ Projects</b></summary>
 
-  Moehack.net.
-  
+  <br>
+
+  ₊˚⊹♡ <b>Moehack.net</b>
+
 </details>
