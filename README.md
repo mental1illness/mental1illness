@@ -18,13 +18,6 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td><b>₊˚⊹♡ Moehack.net</b></td>
-      <td>
-        <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="40">
-      </td>
-    </tr>
-  </table>
+  ₊˚⊹♡ <b>Moehack.net</b> <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="40" align="middle">
 
 </details>
