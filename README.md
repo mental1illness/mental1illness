@@ -30,3 +30,10 @@
   ₊˚⊹♡ <b>Moehack.net</b> <img src="https://media.tenor.com/Aq8PrtQFqrsAAAAM/konata-konata-happy.gif" width="30" align="middle">
 
 </details>
+
+
+<p>
+  <img src="https://img.shields.io/badge/Luau-2C2D72?style=flat&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</p>
